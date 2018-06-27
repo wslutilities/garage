@@ -1,6 +1,6 @@
-# ZSH Theme - WSL
+# ZSH Theme - informator
 # Author: Patrick Wu <wotingwu@live.com>
-# Theme based on my theme linuxer-min and mh Theme
+# Theme based on my theme WSL theme, WSL only
 autoload -Uz add-zsh-hook
 
 export VIRTUAL_ENV_DISABLE_PROMPT=yes
