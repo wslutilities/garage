@@ -1,7 +1,7 @@
-# wsl-ohmyzsh
+# garage
 
-oh-my-wsl is a collection of plugins and themes for oh-my-zsh.
+storing random stuff related to walutilities project.
 
-## License
+# License
 
-MIT License.
+Unilicense.
